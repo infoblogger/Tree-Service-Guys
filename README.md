@@ -1,39 +1,4 @@
 
- 
- <!DOCTYPE html>
-<html>
-<title>Tree Service Guys in Fort Worth</title>
-<meta property="og:title" content="Tree Service Guys" />
-<meta name="keywords" content="Tree Service Guys" />
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="icon" href="https://icons.iconarchive.com/icons/aha-soft/free-global-security/16/Global-Network-icon.png" type="image/gif" sizes="16x16">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body {font-family: "Lato", sans-serif}
-.mySlides {display: none}
-</style>
-<body>
-
-<!-- Navbar -->
-<div class="w3-top">
-  <div class="w3-bar w3-black w3-card">
-    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
-  
-  </div>
-</div>
-
-<!-- Page content -->
-<div class="w3-content" style="max-width:2000px;margin-top:46px">
-  
-  <!-- The Band Section -->
-  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:900px" id="band">
-    <h1 class="w3-wide"></h1>
-    <p class="w3-opacity"><i></a></i></p> 
-    <p class="w3-justify">
-	
 <p><a href="https://sites.google.com/view/tree-service-guys"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.istockphoto.com/photos/arborist-up-a-tree-picture-id174532200?k=20&amp;m=174532200&amp;s=612x612&amp;w=0&amp;h=rWmr2aHF2D4YdgqBnazxLOguMdJXJinM422OicnALNo=" alt="" width="450" height="253" /></a></p>
 <h1 style="text-align: justify;">Tree Service Guys in Fort Worth</h1>
 <p style="text-align: justify;">Looking for the best tree service Fort Worth has to offer? <a href="https://sites.google.com/view/tree-service-guys"><strong>Tree Service Guys</strong></a> is a company that specializes in tree trimming. Trimming a tree requires removing dead branches and tangled limbs. The only goal is to achieve a specific, desired shape or to promote growth. However, in order to achieve maximum health and growth, some tree kinds should only be cut during specific seasons. Trimming your trees is best done in the early spring or late fall. As a result, get in touch with them before the spring blossom appears. Their skilled tree care personnel will guarantee that your tree is treated with the utmost care, ensuring that it is not injured and that it lives a long life.</p>
