@@ -1,5 +1,5 @@
 
-<p><a href="https://sites.google.com/view/tree-service-guys"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.istockphoto.com/photos/arborist-up-a-tree-picture-id174532200?k=20&amp;m=174532200&amp;s=612x612&amp;w=0&amp;h=rWmr2aHF2D4YdgqBnazxLOguMdJXJinM422OicnALNo=" alt="" width="450" height="253" /></a></p>
+<p><a href="https://sites.google.com/view/tree-service-guys"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://tree-service-guys.com/fort-worth-tree-service-tree-removal-trimming-cutting/tree-service-guys-logo.png" alt="" width="200" height="70" /></a></p>
 <h1 style="text-align: justify;">Tree Service Guys in Fort Worth</h1>
 <p style="text-align: justify;">Looking for the best tree service Fort Worth has to offer? <a href="https://sites.google.com/view/tree-service-guys"><strong>Tree Service Guys</strong></a> is a company that specializes in tree trimming. Trimming a tree requires removing dead branches and tangled limbs. The only goal is to achieve a specific, desired shape or to promote growth. However, in order to achieve maximum health and growth, some tree kinds should only be cut during specific seasons. Trimming your trees is best done in the early spring or late fall. As a result, get in touch with them before the spring blossom appears. Their skilled tree care personnel will guarantee that your tree is treated with the utmost care, ensuring that it is not injured and that it lives a long life.</p>
 <p style="text-align: justify;">They've been in the tree service profession for almost a decade. They know which trees need to be trimmed and when to do it in order to realize your tree's full potential. Apart from the aesthetics of the tree, there is an additional hazard. Branches might break off during severe weather, which is very unattractive. But, more crucially, when the dead branch or trunk finally snaps, it may fall on your property or a member of your family. As a result, they eliminate dead branches during the trimming process. You can rest assured that you're in good hands with them. Their tree trimmers are professional, sober, courteous, and experienced employees who go way above their customer expectations.</p>
@@ -24,9 +24,3 @@
 
 <!-- Footer -->
 
-
-</div>
-</div>
-
-</body>
-</html>
